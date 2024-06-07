@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdessadek_403
 - 👀 I’m interested in everything related to programming and technologies
-- 🌱 I’m currently learning the flutter framework
+- 🌱 I’m currently learning the Cybersecurity
 - 💞️ I’m looking to collaborate on some projects thats make life more easier
 - 📫 How to reach me. maybe on my website https://abdosbaai.com or send me a msg on abdessadeksbaai@gmail.com
 
